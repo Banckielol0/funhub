@@ -1,3 +1,5 @@
+print("loaded")
+local key = key1
 local http_request = http_request;
 if syn then
 	http_request = syn.request
