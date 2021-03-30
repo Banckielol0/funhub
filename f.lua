@@ -1,4 +1,3 @@
-print("I hate my life")
 print("loaded")
 local http_request = http_request;
 if syn then
